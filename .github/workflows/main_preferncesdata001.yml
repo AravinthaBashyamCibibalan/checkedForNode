@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'preferncesData001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BC3E4FAEB8F4D2F9DFBDBA2DEAB9C9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8C204FCC1A94D8982186C457234AE54 }}
           package: .
